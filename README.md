@@ -21,8 +21,9 @@ or
 
 ![Left panel](https://media.discordapp.net/attachments/741732875262623748/765623751554891786/unknown.png)
 
+![Left panel](https://media.discordapp.net/attachments/741732875262623748/765624777733439538/unknown.png?width=960&height=386)
 
-![Left panel](https://cdn.discordapp.com/attachments/741732875262623748/765624186185056336/unknown.png)
+![Left panel](https://cdn.discordapp.com/attachments/741732875262623748/765625695527108668/unknown.png)
 
 ### Setup
 
